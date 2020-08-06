@@ -1,8 +1,9 @@
-### Hi there, I'm Faisal Ansari 👋
-### I'm a Devops Engineer !
-### - 🌱 I’m currently learning everything 
-### - 👯 I’m looking to collaborate with other content creators
+## Hi there, I'm Faisal Ansari 👋
+## I'm a Devops Engineer !
+- 🌱 I’m currently learning everything 
+- 👯 I’m looking to collaborate with other content creators
 
+[1]: https://www.linkedin.com/in/faisalansari
 
 
 
