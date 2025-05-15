@@ -16,7 +16,7 @@ I am a skilled DevOps Engineer with expertise in designing, building, and mainta
 I'm an enthusiastic, adaptable, and proactive individual who thrives in both independent and team settings. Known for being a quick learner, I easily grasp new technologies and build strong relationships with colleagues and clients.
 
 ## 🚀 Let’s Connect:
-- 🌐 **LinkedIn:** [https://www.linkedin.com/in/faisalansari]  
+- 🌐 **LinkedIn:** https://www.linkedin.com/in/faisalansari
 - 📧 **Email:** faisansari59@gmail.com  
 - 📝 **GitHub Projects:** Explore my repositories below.  
 
